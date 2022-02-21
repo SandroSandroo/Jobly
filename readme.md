@@ -4,7 +4,7 @@ This is the Express backend for Jobly pure API app, taking values from the query
 
 <h3>Using:</h3>
 <ul>
- <li>Node, Express, and PostgreSQL with relationships.<li>
+ <li>Node, Express, and PostgreSQL with relationships.</li>
 </ul>
 
 To run this:
